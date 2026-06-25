@@ -1,0 +1,98 @@
+=================================================================
+  INDIA COVID-19 ANALYSIS — KEY INSIGHTS REPORT
+=================================================================
+
+📊 SECTION 1: NATIONAL OVERVIEW
+----------------------------------------
+  Total Cases    : 4.31 Crore
+  Total Deaths   : 5.23 Lakh
+  Total Vaccinated: 210.69 Crore doses
+  National CFR   : 1.215%
+
+🌊 SECTION 2: WAVE COMPARISON
+----------------------------------------
+  Wave 1:
+    Cases  : 106.1 Lakh
+    Deaths : 154.0 Thousand
+    CFR    : 1.452%
+  Wave 2 (Delta):
+    Cases  : 193.8 Lakh
+    Deaths : 258.4 Thousand
+    CFR    : 1.333%
+  Wave 3 (Omicron):
+    Cases  : 80.8 Lakh
+    Deaths : 51.4 Thousand
+    CFR    : 0.637%
+
+🏆 SECTION 3: STATE RANKINGS
+----------------------------------------
+
+  Highest Cases per Million:
+    • Kerala: 180167.00
+    • Delhi: 118291.30
+    • Maharashtra: 56713.90
+
+  Lowest Cases per Million:
+    • Bihar: 10105.50
+    • Uttar Pradesh: 10413.20
+    • Jharkhand: 17503.30
+
+  Highest Case Fatality Rate:
+    • Bihar: 1.78
+    • Uttar Pradesh: 1.66
+    • Gujarat: 1.54
+
+  Lowest Case Fatality Rate:
+    • Kerala: 0.59
+    • Odisha: 0.83
+    • Andhra Pradesh: 0.95
+
+  Highest Vaccination Coverage:
+    • Kerala: 1098.31
+    • Delhi: 665.65
+    • Maharashtra: 292.54
+
+  Lowest Vaccination Coverage:
+    • Bihar: 28.43
+    • Uttar Pradesh: 34.18
+    • Jharkhand: 57.45
+
+🔗 SECTION 4: STATISTICAL CORRELATIONS
+----------------------------------------
+  Relationship                                    r    p-val  Sig?   Direction
+  ------------------------------------------ ------  -------  -----  ---------
+  Hospital Beds vs CFR                       -0.395   0.0845  ❌ No  Negative
+  Literacy vs Vaccination Coverage            0.803   0.0000  ✅ Yes  Positive
+  Urbanisation vs Cases per Million           0.659   0.0016  ✅ Yes  Positive
+  Vaccination Coverage vs Deaths per Million  0.814   0.0000  ✅ Yes  Positive
+  Population Density vs Cases per Million     0.449   0.0469  ✅ Yes  Positive
+  Median Age vs CFR                          -0.487   0.0295  ✅ Yes  Negative
+
+💡 SECTION 5: KEY TAKEAWAYS
+----------------------------------------
+
+  1. Wave 2 (Delta) was the deadliest wave, with ~1.8x more
+     cases than Wave 1 and the highest CFR.
+
+  2. Bihar had the highest CFR — indicating strain on
+     healthcare infrastructure or older demographic profile.
+
+  3. Kerala had the lowest CFR, consistent with its
+     strong public health system and high literacy rate.
+
+  4. Kerala led in vaccination coverage, correlating with
+     lower deaths per million in later waves.
+
+  5. Bihar lagged in vaccination — states with lower
+     literacy rates showed slower vaccine uptake (r ~ literacy
+     vs vaccination coverage correlation).
+
+  6. Hospital beds per 1,000 showed a negative correlation with
+     CFR — states with more beds had lower death rates,
+     highlighting the role of healthcare capacity.
+
+  7. Highly urbanised states (Delhi, Maharashtra) had more
+     cases per million but also faster vaccination rollout,
+     partially offsetting the impact in Wave 3.
+
+=================================================================

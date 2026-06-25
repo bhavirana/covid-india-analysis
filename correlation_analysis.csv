@@ -1,0 +1,7 @@
+relationship,pearson_r,p_value,significant,direction
+Hospital Beds vs CFR,-0.395,0.0845,❌ No,Negative
+Literacy vs Vaccination Coverage,0.803,0.0,✅ Yes,Positive
+Urbanisation vs Cases per Million,0.659,0.0016,✅ Yes,Positive
+Vaccination Coverage vs Deaths per Million,0.814,0.0,✅ Yes,Positive
+Population Density vs Cases per Million,0.449,0.0469,✅ Yes,Positive
+Median Age vs CFR,-0.487,0.0295,✅ Yes,Negative
